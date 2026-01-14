@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Chinese New Year",
+  "base_artist": "SALES",
+  "createdAt": "2026-01-14T04:44:43.685502Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chinese New Year",
+      "artist": "Clipse feat. Roscoe P. Coldchain",
+      "has_synced": true,
+      "path": "select/01_Chinese_New_Year_Clipse_feat._Roscoe_P._Coldchain.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chinese New Year (feat. Roscoe P. Coldchain)",
+      "artist": "Clipse",
+      "has_synced": true,
+      "path": "select/02_Chinese_New_Year_(feat._Roscoe_P._Coldchain)_Clipse.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dirty Harry - Schtung Chinese New Year Remix",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/03_Dirty_Harry_-_Schtung_Chinese_New_Year_Remix_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chinese New Year",
+      "artist": "SALES",
+      "has_synced": true,
+      "path": "select/04_Chinese_New_Year_SALES.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dirty Harry (Schtung Chinese New Year Remix)",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/05_Dirty_Harry_(Schtung_Chinese_New_Year_Remix)_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Chinese New Year (feat. Rosco P. Coldchain)",
+      "artist": "Clipse",
+      "has_synced": true,
+      "path": "select/06_Chinese_New_Year_(feat._Rosco_P._Coldchain)_Clipse.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Chinese New Year",
+      "artist": "Clipse",
+      "has_synced": false,
+      "path": "select/07_Chinese_New_Year_Clipse.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Chinese New Year",
+      "artist": "Sales",
+      "has_synced": true,
+      "path": "select/08_Chinese_New_Year_Sales.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dirty Harry (Chinese New Year Remix)",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/09_Dirty_Harry_(Chinese_New_Year_Remix)_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Chinese New Year",
+      "artist": "SALES",
+      "has_synced": true,
+      "path": "select/10_Chinese_New_Year_SALES.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Chinese New Year",
+      "artist": "SALES",
+      "has_synced": true,
+      "path": "select/11_Chinese_New_Year_SALES.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Chinese New Year (ft. Roscoe P. Coldchain)",
+      "artist": "Clipse",
+      "has_synced": true,
+      "path": "select/12_Chinese_New_Year_(ft._Roscoe_P._Coldchain)_Clipse.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dirty Harry (Schtung Chinese New Year Remix)",
+      "artist": "Schtung",
+      "has_synced": true,
+      "path": "select/13_Dirty_Harry_(Schtung_Chinese_New_Year_Remix)_Schtung.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Chinese New Year (featuring Roscoe P. Coldchain)",
+      "artist": "Clipse",
+      "has_synced": true,
+      "path": "select/14_Chinese_New_Year_(featuring_Roscoe_P._Coldchain)_Clipse.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chinese New Year",
+      "artist": "Sales",
+      "has_synced": false,
+      "path": "select/pl_01_Chinese_New_Year_Sales.txt"
+    }
+  ]
+}
